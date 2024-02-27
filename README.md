@@ -1,19 +1,6 @@
 # Proyecto Final Data Science 1 | Coderhouse 
 Proyecto final del curso "Data science 1" de coderhouse
 
-Para tener en cuenta a la hora de hacer 
-
-- Realizar limpieza y preprocesamiento de datos. !Eliminar valores por debajo de 500, o 1000
-  - ¿Qué pasos utilizaste en este proceso y cómo limpiaste tus datos?
-  - Realizar análisis exploratorio de datos en el conjunto de datos dado.
-  - Explicar cada uno de los gráficos que hagas.
-  - Entrenar un modelo de aprendizaje automático y evaluarlo usando diferentes métricas.
-  - La optimización de hiperparámetros y la selección de características son un plus.
-  - La implementación del modelo y el uso de ml-flow son un plus.
-  - Realizar interpretación del modelo y mostrar la importancia de las características para tu modelo.
-  - Proporcionar alguna explicación para el punto anterior.
-
-Nota: trata de que tus cuadernos sean lo más presentables posible.
 Descripción del conjunto de datos
 
 
