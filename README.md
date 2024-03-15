@@ -1,15 +1,13 @@
-# Proyecto Final Data Science 1 | Coderhouse 
+Proyecto Final Data Science 1 | Coderhouse 
 Proyecto final del curso "Data science 1" de coderhouse
 
-##Introducción y descripción del dataset
+Introducción y descripción del dataset
 
 Este database contiene datos detallados sobre diferentes modelos de autos usados en venta, con sus características técnicas, equipamiento, precio y otra información relevante.
 
 El dataset fue descargado desde kaggle: https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge
 
-
-
-###Features
+Features
 
 
 * ID: Identificador único de cada auto
@@ -33,8 +31,7 @@ El dataset fue descargado desde kaggle: https://www.kaggle.com/datasets/deepcont
 * Airbags: Número de airbags
 
 
-
-### Objetivos del estudio
+bjetivos del estudio
 
 - Predecir el precio de un automóvil en función de sus características (año, kilometraje, cilindrada, etc.)
 
@@ -45,7 +42,7 @@ El dataset fue descargado desde kaggle: https://www.kaggle.com/datasets/deepcont
 - Estudiar el impacto de ciertas características (transmisión, combustible, etc.) en el precio.
 
 
-###Hipótesis
+Hipótesis
 Se hipotetiza que:
 
 
