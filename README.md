@@ -9,7 +9,6 @@ El dataset fue descargado desde kaggle: https://www.kaggle.com/datasets/deepcont
 
 Features:
 
-
 * ID: Identificador único de cada auto
 * Price: Precio del auto
 * Levy: Impuesto agregado al precio total
@@ -38,7 +37,6 @@ Objetivos del estudio:
 - Estudiar el impacto de ciertas características (transmisión, combustible, etc.) en el precio.
 
 
-Hipótesis
 Se hipotetiza que:
 
 * El precio del automóvil está fuertemente correlacionado con el año de producción, el millaje y el tamaño del motor.
