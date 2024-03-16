@@ -1,5 +1,5 @@
-Proyecto Final Data Science 1 | Coderhouse 
-Proyecto final del curso "Data science 1" de coderhouse
+Proyecto Final Data Science I | Coderhouse 
+Proyecto final del curso "Data science I" de coderhouse
 
 Introducción y descripción del dataset
 
